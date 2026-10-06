@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="SauceLabs Suite" parallel="classes" thread-count="3">
+    <test name="SauceLabs Tests">
+        <classes>
+            <class name="UI.SauceLabsTests.LoginTest"/>
+            <class name="UI.SauceLabsTests.ProductTest"/>
+            <class name="UI.SauceLabsTests.CartTest"/>
+        </classes>
+    </test>
+</suite>

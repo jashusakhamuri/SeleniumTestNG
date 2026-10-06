@@ -1,6 +1,6 @@
-package com.jashu.tests;
+package UI.jashu.tests;
 
-import com.jashu.pages.WebTablesPage;
+import UI.jashu.pages.WebTablesPage;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterMethod;

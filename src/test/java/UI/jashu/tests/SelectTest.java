@@ -1,5 +1,5 @@
-package com.jashu.tests;
-import com.jashu.pages.SelectPage;
+package UI.jashu.tests;
+import UI.jashu.pages.SelectPage;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterMethod;

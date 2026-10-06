@@ -1,6 +1,6 @@
-package com.jashu.tests;
+package UI.jashu.tests;
 
-import com.jashu.pages.AmazonPage;
+import UI.jashu.pages.AmazonPage;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;

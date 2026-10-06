@@ -1,4 +1,4 @@
-package com.jashu.tests;
+package UI.jashu.tests;
 
 import org.testng.annotations.Test;
 
