@@ -1,6 +1,3 @@
-Absolutely bro. Below is a **complete `.md` study/notes file** combining everything you provided, cleaned up and organized into an **industry-oriented Selenium + Java + TestNG framework guide**.
-
-```markdown
 # Selenium Java + TestNG — Complete Automation Notes
 
 ## 1. Selenium Locator Strategies
@@ -2053,5 +2050,3 @@ runs the framework automatically
 ```
 
 This gives us a maintainable Selenium + Java + TestNG automation framework instead of a collection of individual Selenium scripts.
-```
-
